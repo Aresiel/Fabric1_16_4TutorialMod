@@ -1,5 +1,9 @@
 {
   "item.tutorialmod.point": "Point",
   "item.tutorialmod.line": "Line",
-  "item.tutorialmod.square": "Square"
+  "item.tutorialmod.square": "Square",
+  "item.tutorialmod.square_helmet": "Square Helmet",
+  "item.tutorialmod.square_chestplate": "Square Chestplate",
+  "item.tutorialmod.square_leggings": "Square Leggings",
+  "item.tutorialmod.square_boots": "Square Boots"
 }
