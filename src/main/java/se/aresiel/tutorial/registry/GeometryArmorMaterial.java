@@ -17,7 +17,7 @@ public class GeometryArmorMaterial implements ArmorMaterial {
     private static int  toughness;
 
     public GeometryArmorMaterial(int level) {
-        BASE_DURABILITY = (int) Math.pow(4, level)*10;
+        BASE_DURABILITY = (int) Math.pow(4, level)*50;
         PROTECTION_VALUE = (int) Math.pow(4, level);
         enchantability = (int) Math.pow(4, level);
         knockbackResistance = (float) Math.pow(2, level);
