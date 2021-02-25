@@ -22,7 +22,9 @@
       "se.aresiel.tutorial.Tutorial"
     ]
   },
-  "mixins": [],
+  "mixins": [
+    "tutorialmod.mixins.json"
+  ],
 
   "depends": {
     "fabricloader": ">=0.7.4",

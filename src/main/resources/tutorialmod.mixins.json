@@ -1,0 +1,14 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "se.aresiel.tutorial.mixins",
+  "compatibilityLevel": "JAVA_8",
+  "mixins": [
+    "RepairItemRecipeMixin"
+  ],
+  "client": [],
+  "server": [],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
