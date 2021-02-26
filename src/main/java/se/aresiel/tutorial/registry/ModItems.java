@@ -1,5 +1,7 @@
 package se.aresiel.tutorial.registry;
 
+import net.fabricmc.fabric.impl.client.keybinding.KeyBindingRegistryImpl;
+import net.minecraft.client.options.KeyBinding;
 import net.minecraft.entity.EquipmentSlot;
 import net.minecraft.item.*;
 import net.minecraft.util.Identifier;
